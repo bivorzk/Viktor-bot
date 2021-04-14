@@ -1,1 +1,1 @@
-Worker node ./src/viktorszia.js
+Worker: node viktorszia.js
