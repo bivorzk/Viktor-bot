@@ -1,1 +1,1 @@
-Worker: node viktorszia.js
+Worker: npm start
