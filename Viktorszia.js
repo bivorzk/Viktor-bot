@@ -30,4 +30,4 @@ for(const file of commandFiles){
     }
  })
 
- client.login(`ODMxNjI2OTE4ODAwNzg1NDQ4.YHX-7A.XrOzqzdd_W2AlG-NzOsHU4plT7U`);
+ client.login(`DISCORD_TOKEN`);
